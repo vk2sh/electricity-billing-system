@@ -1,2 +1,2 @@
 # electricity-billing-system_java
-this project is complete in  java in which i have used core concept of obeject oriented programming to degien this application
+this project is completely in  java in which I have used core concept of obeject oriented programming to degine this application
