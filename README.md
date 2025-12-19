@@ -1,5 +1,4 @@
-
-##Electricity Billing System
+Electricity Billing System
 A management application designed to automate electricity billing, user management, and secure payment processing. This project bridges legacy Java GUI components with a modern RESTful backend.
 
 📋 Features
