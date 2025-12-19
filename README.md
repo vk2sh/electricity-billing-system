@@ -1,6 +1,3 @@
-This is a solid project that demonstrates a full-stack approach using Java. Since you used a mix of traditional GUI (Swing/AWT) and modern backend (Spring Boot), the README should clearly explain how these two layers interact.
-
-Here is a comprehensive README template for your GitHub repository:
 
 Electricity Billing System
 A robust desktop-based management application designed to automate electricity billing, user management, and secure payment processing. This project bridges legacy Java GUI components with a modern RESTful backend.
