@@ -1,6 +1,6 @@
 
 Electricity Billing System
-A robust desktop-based management application designed to automate electricity billing, user management, and secure payment processing. This project bridges legacy Java GUI components with a modern RESTful backend.
+A management application designed to automate electricity billing, user management, and secure payment processing. This project bridges legacy Java GUI components with a modern RESTful backend.
 
 📋 Features
 User Management: Efficiently handles over 1,000 user accounts and billing profiles.
@@ -39,27 +39,15 @@ JDK 17 or higher
 
 MySQL Server
 
-An IDE (IntelliJ IDEA, Eclipse, or VS Code)
+An IDE (IntelliJ IDEA, Eclipse, or VS Code).
 
 Database Setup
 Create a database named electricity_db.
 
-Execute the provided SQL scripts in /database/schema.sql to create the necessary tables.
+Execute the provided SQL scripts in /database/schema.sql to create the necessary tables:
 
-Installation
-Clone the repository:
 
-Bash
-
-git clone [https://github.com/your-username/electricity-billing-system.git](https://vk2sh.github.io/booking-system/)
-Configure Backend: Update src/main/resources/application.properties with your MySQL credentials:
-
-Properties
-
-spring.datasource.url=jdbc:mysql://localhost:3306/electricity_db
-spring.datasource.username=your_username
-spring.datasource.password=your_password
-Run the Application:
+**Run the Application:
 
 Start the Spring Boot backend service.
 
@@ -73,6 +61,6 @@ Successfully implemented a hybrid architecture connecting a Java desktop client 
 
 Optimized SQL queries via JDBC to maintain high performance while managing 1,000+ active records.
 
-Streamlined the billing cycle from meter reading entry to digital receipt generation.
+Streamlined the billing entry to digital receipt generation.
 
 Would you like me to add a specific section for "API Endpoints" listing the routes you created for the payment gateway?
