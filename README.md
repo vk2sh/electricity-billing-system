@@ -20,7 +20,7 @@ Backend: Spring Boot (REST APIs), Java Database Connectivity (JDBC)
 
 Database: MySQL
 
-Tools: Maven/Gradle, Postman (API Testing)
+Tools: Intlijidea,MySQL.
 
 🏗️ Architecture
 The system follows the MVC (Model-View-Controller) design pattern to ensure a clean separation of concerns:
