@@ -60,7 +60,3 @@ The system manages complex relationships between users, meter readings, and tran
 Successfully implemented a hybrid architecture connecting a Java desktop client to a Spring Boot REST API.
 
 Optimized SQL queries via JDBC to maintain high performance while managing 1,000+ active records.
-
-Streamlined the billing entry to digital receipt generation.
-
-Would you like me to add a specific section for "API Endpoints" listing the routes you created for the payment gateway?
