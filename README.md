@@ -35,7 +35,7 @@ Controller (Spring Boot): Handles the business logic, API routing, and authentic
 Model (JDBC/MySQL): Manages data structures and database interactions.
 
 
-Shutterstock
+
 🚀 Getting Started
 Prerequisites
 JDK 17 or higher
@@ -54,7 +54,7 @@ Clone the repository:
 
 Bash
 
-git clone https://github.com/your-username/electricity-billing-system.git
+git clone [https://github.com/your-username/electricity-billing-system.git](https://vk2sh.github.io/booking-system/)
 Configure Backend: Update src/main/resources/application.properties with your MySQL credentials:
 
 Properties
